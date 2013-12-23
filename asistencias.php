@@ -1,4 +1,6 @@
 <?php
+
+//Comenzar a usar sesion
 session_start();
 include('simple_html_dom.php');
 $asistencia=26;

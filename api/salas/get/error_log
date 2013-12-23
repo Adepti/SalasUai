@@ -1,0 +1,2 @@
+[22-Apr-2013 16:50:03 America/Santiago] PHP Warning:  include(simple_html_dom.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cto4361/public_html/api/salas/get/index.php on line 6
+[22-Apr-2013 16:50:03 America/Santiago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'simple_html_dom.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cto4361/public_html/api/salas/get/index.php on line 6

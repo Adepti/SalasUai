@@ -1,8 +1,8 @@
-SalasUai
+SalasUAI
 ========
 Funcionalidades:
-Reserva Deportes.
-Horarios y salas de clases.
-Horario de Buses.
-Desarrollado con jQuery Mobile 
-Live Demo: http://www.salasuai.com/
+\nReserva Deportes.
+\nHorarios y salas de clases.
+\nHorario de Buses.
+\nDesarrollado con jQuery Mobile 
+\nLive Demo: http://www.salasuai.com/
